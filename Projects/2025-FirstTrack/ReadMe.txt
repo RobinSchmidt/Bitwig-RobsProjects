@@ -29,10 +29,15 @@ Notes:
   they are running at 44.1 and others at 48? That would explain the detuning. But I don't think, 
   it's that. The other Surge instances are not detuned. It may be an issue with the patch.
   
-- The end is too abrupt. Maybe put a long reverb-tail on the final brass note. Maybe make the outro 
-  one bar longer (if so, adjust the 303 sweepdown automation accordingly).
+- The end is too abrupt. Maybe put a long reverb-tail on the final brass note. And or maybe hold it
+  longer and pitchbend it down one ocatve at the end.
   
 - Elektrobeat part needs snare or clap , maybe
+
+- Try to invert the polarity of the bass to see if this fits better with the bassdrum. Maybe try to
+  phase-align bass and bassdrum - maybe in Surge, we cand adjust the oscillator phase? ...but it 
+  when it's aligned for one note, it may not be for another - so maybe using ducking and/or 
+  highpassing the bass by the kick is better.
 
 - Maybe in some parts, a HiHat would be nice. And/or a clap or snare.
 
