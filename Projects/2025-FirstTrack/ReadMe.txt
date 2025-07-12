@@ -36,7 +36,7 @@ Notes:
 - Maybe in some parts, a HiHat would be nice. And/or a clap or snare.
 
 - Check the stereo width and possibly adjust with mid/side tools (perhaps mid/side EQ). But maybe
-  do this per channel.
+  do this per track.
   
 - It would be nice, if we could export the arpeggiator sequence for the FilterBass into a MIDI 
   sequence and then use the midi and get rid of the arp to make the sequence usable in the later 
@@ -46,10 +46,12 @@ Notes:
   great feature for an arp plugin! It could be realized by letting the user enter notes from the 
   used scale rather than the 12 notes from the keyboard.
   Maybe it's possible to record arp output into a midi track?
-  If not, write the sequence off manually. It's not too complicated
+  If not, transcribe the sequence manually. It's not too complicated
   OK - it's kinda solved. I use shorter MIDI notes such the the sequence is not played through 
   completely. 
-  BUT: It would still be nice to have the MIDI - to make it work also in other DAWs
+  BUT: It would still be nice to have the MIDI - to make it work also in other DAWs. I suppose, such
+  states of builtin processors cannot be transfered to other DAWs, even if they have similar 
+  builtins.
   
 - Maybe in the intro, the FilterBass should not be highpassed so much. Maybe automate the highpass 
   such that it is in full effect only when the bassdrum begins
