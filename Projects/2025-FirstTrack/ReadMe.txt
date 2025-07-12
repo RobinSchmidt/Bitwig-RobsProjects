@@ -29,7 +29,8 @@ Notes:
   they are running at 44.1 and others at 48? That would explain the detuning. But I don't think, 
   it's that. The other Surge instances are not detuned. It may be an issue with the patch.
   
-- The end is too abrupt. Maybe put a long reverb-tail on the final brass note.  
+- The end is too abrupt. Maybe put a long reverb-tail on the final brass note. Maybe make the outro 
+  one bar longer (if so, adjust the 303 sweepdown automation accordingly).
   
 - Elektrobeat part needs snare or clap , maybe
 
