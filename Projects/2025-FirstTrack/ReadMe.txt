@@ -24,6 +24,18 @@ ToDo / Notes:
   ToDo: Tune it properly and exactly. Maybe use a pitch detector plugin for that. Play a somewhat 
   higher note and then use the "Pitch" slider in Surge
   ...I'm currently at around -0.5 semitones...but it's just rough adjustment
+  Maybe put a pitch-detector output on the pitch-shifter in ToolChain. But maybe I should make a 
+  dedicated pitch-detector plugin with various algorithms (zero-crossings, autocorrelation, 
+  frequency-domain, etc.). Or maybe use one of these:
+  https://www.katjaas.nl/helmholtz/helmholtz.html
+  https://github.com/orchidas/Pitch-Tracking
+  
+- After the "Pizzi Theme" marker, the pizzis are quite loud. Apparently, the limiter on the master 
+  pulls the volume up quite a lot at this point - I think, a bit too much. Maybe that can be 
+  counteracted but putting some low-freq bass-sound underneath. Maybe pizzis playing in low octaves 
+  or maybe the filterbass or maybe the brass or maybe some additional sub-bass sound whose main 
+  purpose is not to be actually very audible but rather to disengage the volume boosting by the 
+  limiter. Or maybe automate the limiter. Or maybe put a multiband-compressor in front of it.
   
 - Maybe at bar 99, remove the brass note - it's barely noticable and maybe just create mud  
   
