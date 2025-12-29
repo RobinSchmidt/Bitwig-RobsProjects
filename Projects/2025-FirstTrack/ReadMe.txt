@@ -37,6 +37,13 @@ ToDo / Notes:
   purpose is not to be actually very audible but rather to disengage the volume boosting by the 
   limiter. Or maybe automate the limiter. Or maybe put a multiband-compressor in front of it.
   
+- The pizzis could benefit from a bit more transient and/or high-frequency content. At least, when  
+  in the first part and when listening via loudspeakers. Maybe try to edit the amp-envelope and/or 
+  filter envelope. Or maybe try layering them with some "clicky" sound. Maybe the 2nd "scene" in 
+  Surge itself could be used for this. Or perhaps they could be rhythmically supported by some 
+  HiHat. Or maybe try integrating a TransientShaper into Quadrifex and then create split-eq and use 
+  that. And/or maybe try a harmonic exciter.
+  
 - Maybe at bar 99, remove the brass note - it's barely noticable and maybe just create mud  
   
 - At bar 113 (until 177) - maybe use some sort of percussive sound like timpani or some other 
